@@ -1,1 +1,1 @@
-[View the document](output-example.docx)
+[View the document](output_example.docx)
